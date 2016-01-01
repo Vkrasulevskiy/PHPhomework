@@ -1,5 +1,6 @@
 ﻿<?php
 	class currencyWorld {
+        
   	protected $dollar;
   	protected $euro;
  	  protected $rur;
